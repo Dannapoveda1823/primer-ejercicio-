@@ -1,0 +1,3 @@
+kg = int(input("Dime tu peso en kg"))
+metros = int(input("Dime tu altura en metros"))
+print("Tu indice de masa corporal es", kg/(metros**2))

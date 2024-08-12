@@ -1,0 +1,2 @@
+print ("Ingresa tu contraseña:")
+contraseña= str(input())

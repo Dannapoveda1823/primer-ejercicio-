@@ -1,0 +1,4 @@
+numero = int(input("Dime un numero"))
+suma = numero
+suma += numero
+print("el resultado de la suma es", suma)
